@@ -40,16 +40,16 @@
 				<form role="form" action="ballot_maker.php" method="POST">
 					<div class="form-group">
 						<label for="title">Amendment Title</label>
-						<input type="text" id="title" name="title" class="form-control" placeholder="Article 7: Ben Centra Gets All The Money" />
+						<input type="text" id="title" name="title" class="form-control" placeholder="Article 8: Braden Bowdish gets free Magic: The Gathering Cards" />
 					</div>
 					<div class="form-group">
 						<label for="body">Amendment Text</label>
-						<textarea id="body" name="body" class="form-control" rows="5" placeholder="Every year, all the dues money is given to Ben Centra to spend on hookers and blow."></textarea>
+						<textarea id="body" name="body" class="form-control" rows="5" placeholder="Every year Computer Science House's Social budget must buy Braden Bowdish at least 100 dollars in Magic: The Gathering cards."></textarea>
 						<p class="help-block">You can totally inject HTML, it's a feature. Also, line breaks are maintained.</p>
 					</div>
 					<div class="form-group">
 						<label for="num">Number of Ballots</label>
-						<input type="number" id="num" name="num" class="form-control" min="0" max="100" value="60"/>
+						<input type="number" id="num" name="num" class="form-control" min="0" max="100" value="75"/>
 					</div>
 					<div class="form-group">
 						<label>
